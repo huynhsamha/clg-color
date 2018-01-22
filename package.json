@@ -1,0 +1,32 @@
+{
+  "name": "clg-color",
+  "version": "1.0.0",
+  "description": "console.log() with color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhsamha/clg-color.git"
+  },
+  "keywords": [
+    "console",
+    "console.log",
+    "color",
+    "chalk",
+    "winston",
+    "logger",
+    "log",
+    "clg"
+  ],
+  "author": "huynhsamha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhsamha/clg-color/issues"
+  },
+  "homepage": "https://github.com/huynhsamha/clg-color#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
