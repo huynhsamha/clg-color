@@ -1,6 +1,6 @@
 {
   "name": "clg-color",
-  "version": "3.2.1",
+  "version": "1.1.0",
   "description": "console.log() with color",
   "main": "index.js",
   "scripts": {
