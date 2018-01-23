@@ -1,15 +1,15 @@
 # clg-color
 
 #### clg-color is simple utility for Console.log() with color
-----------
+
 
 ## Installation
 
-`npm install clg-color`
+```
+npm install clg-color
 
-`npm install clg-color --save`
-
-----------
+npm install clg-color --save
+```
 
 ## Usage
 
@@ -48,6 +48,13 @@ log.success('Jets for sale:', jets[0], jets[1]);
 log.info('Jets for sale:', jets);
 ```
 
+### Screenshots for above example
+
+![Dark Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/dark-theme.png)
+
+![Dark Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/linux-theme.png)
+
+![Light Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/light-theme.png)
 
 ## GitHub
 [https://github.com/huynhsamha/clg-color](https://github.com/huynhsamha/clg-color)
