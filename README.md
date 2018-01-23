@@ -2,6 +2,7 @@
 
 #### clg-color is simple utility for Console.log() with color
 
+![Logo Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/logo.png)
 
 ## Installation
 
