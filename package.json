@@ -1,10 +1,10 @@
 {
   "name": "clg-color",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "console.log() with color",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -34,7 +34,11 @@
     "clg-color",
     "simple console log"
   ],
-  "author": "huynhsamha",
+  "author": {
+    "name": "huynhsamha",
+    "email": "huynhsamha@gmail.com",
+    "url": "https://github.com/huynhsamha"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/huynhsamha/clg-color/issues"

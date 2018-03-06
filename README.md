@@ -1,6 +1,9 @@
 # clg-color
 
-#### clg-color is simple utility for Console.log() with color
+[![NPM version][npm-image]][npm-url]
+[![NPM downloads][downloads-image]][downloads-url]
+
+clg-color is simple utility for Console.log() with color
 
 ![Logo Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/logo.png)
 
@@ -59,3 +62,8 @@ log.info('Jets for sale:', jets);
 
 ## GitHub
 [https://github.com/huynhsamha/clg-color](https://github.com/huynhsamha/clg-color)
+
+[npm-image]: https://img.shields.io/npm/v/clg-color.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/clg-color
+[downloads-image]: https://img.shields.io/npm/dm/clg-color.svg?style=flat
+[downloads-url]: https://www.npmjs.com/package/clg-color

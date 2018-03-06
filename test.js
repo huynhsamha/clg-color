@@ -1,4 +1,4 @@
-var log = require('./../index');
+var log = require('./index');
 
 log.error('This is error with color red');
 log.warning('This is warning with color orange');
