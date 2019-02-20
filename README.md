@@ -60,8 +60,11 @@ log.info('Jets for sale:', jets);
 
 ![Light Theme](https://raw.githubusercontent.com/huynhsamha/clg-color/master/screenshot/light-theme.png)
 
-## GitHub
-[https://github.com/huynhsamha/clg-color](https://github.com/huynhsamha/clg-color)
+## Donate
+
+<a href="https://www.buymeacoffee.com/harisk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+
 
 [npm-image]: https://img.shields.io/npm/v/clg-color.svg?style=flat
 [npm-url]: https://www.npmjs.com/package/clg-color
